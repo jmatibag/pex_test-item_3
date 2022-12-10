@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"pex_test_3.pex_test_3_col"},{"v":{"$numberInt":"2"},"key":{"Owner_Name":{"$numberDouble":"1.0"}},"name":"Owner_Name_1","ns":"pex_test_3.pex_test_3_col"}],"uuid":"e70d04e8fa464919961350c826128b54"}
