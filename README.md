@@ -4,4 +4,4 @@
 
 2. Restore using the ff. command:
 
-mongorestore --db pex_test_3 --dir /**PRECEDING PATH**/dump/pex_test_3
+mongorestore --db pex_test_3 --dir /(**PRECEDING PATH**)/dump/pex_test_3
